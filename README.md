@@ -5,9 +5,11 @@ modélisation d'une base de données permettant de mettre en place des recettes 
 Modélisation de la base de données :
 
 MCD
+
 ![mcd](https://github.com/Ehonam/SQL/assets/164899950/5fddb7aa-4254-4ef4-be31-81bb18bf6b31)
 
 MLD
+
 ![mld](https://github.com/Ehonam/SQL/assets/164899950/9504efdb-1e46-4da4-b213-a10ade58e05c)
 
 La base de données
