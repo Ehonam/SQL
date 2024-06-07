@@ -70,6 +70,16 @@ Requête 15 / Afficher les recettes qui ne nécessitent pas d’ingrédients co�
 Requête 16 / Afficher la / les recette(s) les plus rapides à préparer
 ![r16](https://github.com/Ehonam/SQL/assets/164899950/ac723abe-1cae-4fe2-85a2-23c2d2fd6155)
 
+Requête 17 / Trouver les recettes qui ne nécessitent aucun ingrédient (par exemple la recette de la tasse d’eau chaude qui consiste à verser de l’eau chaude dans une tasse)
+![r17](https://github.com/Ehonam/SQL/assets/164899950/f9312235-475e-4ede-a6ea-447cf0d6a3e2)
+
+
+Requête 18 / Trouver les ingrédients qui sont utilisés dans au moins 3 recettes
+
+Requête 19 / Ajouter un nouvel ingrédient à une recette spécifique
+
+Requête 20 / Trouver la recette la plus coûteuse de la base de données (il peut y avoir des ex aequo, il est donc exclu d’utiliser la clause LIMIT)
+
 
 
 
