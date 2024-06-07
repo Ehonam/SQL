@@ -30,5 +30,8 @@ Requête 3 / Afficher les recettes qui nécessitent au moins 30 min de préparat
 ![r3](https://github.com/Ehonam/SQL/assets/164899950/40cfc6de-7077-4b15-887a-9c11277d9a9b)
 
 Requête 4 / Afficher les recettes dont le nom contient le mot « Salade » (peu importe où est situé le mot en question)
+![r4](https://github.com/Ehonam/SQL/assets/164899950/8991b81d-5bac-45f0-85ba-47cd1a2696dd)
 
+Requête 5 / Insérer une nouvelle recette : « Pâtes à la carbonara » dont la durée de réalisation est de 20 min avec les instructions de votre choix. Pensez à alimenter votre base de données en conséquence afin de pouvoir lister les détails de cette recettes (ingrédients)
+![r5](https://github.com/Ehonam/SQL/assets/164899950/2a10fcf1-382e-4859-a672-fd516075d7fc)
 
