@@ -47,5 +47,5 @@ Requête 8 / Afficher le prix total de la recette n°5
 Requête 9 / Afficher le détail de la recette n°5 (liste des ingrédients, quantités et prix)
 ![r9](https://github.com/Ehonam/SQL/assets/164899950/fcc47017-970f-4e47-a7c3-417c05c487e7)
 
-Requête 10 / Ajouter un ingrédient en base de données : Poivre, unité : cuillère à café, prix : 2.5 €
+Requête 10 / Ajouter un ingrédient en base de données : Poivre noir, unité : cuillère à café, prix : 2.5 €
 ![r10](https://github.com/Ehonam/SQL/assets/164899950/d4703595-2bf0-45ef-ab89-1ddc43767e55)
