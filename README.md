@@ -35,3 +35,17 @@ Requête 4 / Afficher les recettes dont le nom contient le mot « Salade » (peu
 Requête 5 / Insérer une nouvelle recette : « Pâtes à la carbonara » dont la durée de réalisation est de 20 min avec les instructions de votre choix. Pensez à alimenter votre base de données en conséquence afin de pouvoir lister les détails de cette recettes (ingrédients)
 ![r5](https://github.com/Ehonam/SQL/assets/164899950/2a10fcf1-382e-4859-a672-fd516075d7fc)
 
+Requête 6 / Modifier le nom de la recette ayant comme identifiant id_recette = 3 (nom de la recette à votre convenance)
+![r6](https://github.com/Ehonam/SQL/assets/164899950/7ab33214-9ef3-4313-8a14-5eb1331c845f)
+
+Requête 7 / Supprimer la recette n°20 de la base de données
+![r7](https://github.com/Ehonam/SQL/assets/164899950/52dfa207-2066-4510-981f-e7892d4d1fa2)
+
+Requête 8 / Afficher le prix total de la recette n°5
+![r8](https://github.com/Ehonam/SQL/assets/164899950/964f334d-700f-4977-87a0-7be1cec10eed)
+
+Requête 9 / Afficher le détail de la recette n°5 (liste des ingrédients, quantités et prix)
+![r9](https://github.com/Ehonam/SQL/assets/164899950/fcc47017-970f-4e47-a7c3-417c05c487e7)
+
+Requête 10 / Ajouter un ingrédient en base de données : Poivre, unité : cuillère à café, prix : 2.5 €
+![r10](https://github.com/Ehonam/SQL/assets/164899950/d4703595-2bf0-45ef-ab89-1ddc43767e55)
