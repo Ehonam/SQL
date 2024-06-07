@@ -49,3 +49,27 @@ Requête 9 / Afficher le détail de la recette n°5 (liste des ingrédients, qua
 
 Requête 10 / Ajouter un ingrédient en base de données : Poivre noir, unité : cuillère à café, prix : 2.5 €
 ![r10](https://github.com/Ehonam/SQL/assets/164899950/d4703595-2bf0-45ef-ab89-1ddc43767e55)
+
+Requête 11 / Modifier le prix de l’ingrédient n°12 (prix à votre convenance)
+![r11](https://github.com/Ehonam/SQL/assets/164899950/43a1540b-7adb-49c0-99ff-e5c3552eb7a3)
+
+Requête 12 / Afficher le nombre de recettes par catégories : X entrées, Y plats, Z desserts
+![r12](https://github.com/Ehonam/SQL/assets/164899950/6551a96d-7634-48ce-8b08-9626c73e34e9)
+
+Requête 13 / Afficher les recettes qui contiennent l’ingrédient « Poulet »
+![r13](https://github.com/Ehonam/SQL/assets/164899950/ad309086-e4a4-42ee-b91d-1b2595f4822d)
+
+Requête 14 / Mettez à jour toutes les recettes en diminuant leur temps de préparation de 5 minutes
+UPDATE recipe
+SET preparation_time = preparation_time - 5
+WHERE 1=1; -- Cette condition mettra à jour toutes les lignes
+
+Requête 15 / Afficher les recettes qui ne nécessitent pas d’ingrédients coûtant plus de 2€ par unité de mesure
+![r15](https://github.com/Ehonam/SQL/assets/164899950/4882576c-869d-48c6-8a46-3caef21ad5bf)
+
+Requête 16 / Afficher la / les recette(s) les plus rapides à préparer
+![r16](https://github.com/Ehonam/SQL/assets/164899950/ac723abe-1cae-4fe2-85a2-23c2d2fd6155)
+
+
+
+
